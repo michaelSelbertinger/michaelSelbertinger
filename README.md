@@ -33,7 +33,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-selbertinger-259b05288)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=namedmichi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=namedmichi&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=michaelSelbertinger&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=michaelSelbertinger&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=namedmichi&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=-C,-B,-?)
+![](https://github-profile-trophy.vercel.app/?username=michaelSelbertinger&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=-C,-B,-?)
