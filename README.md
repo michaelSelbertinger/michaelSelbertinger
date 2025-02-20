@@ -33,5 +33,5 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-selbertinger-259b05288)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=michaelSelbertinger&theme=dark&hide_border=false)<br/>
-![](https://github-profile-trophy.vercel.app/?username=michaelSelbertinger&theme=onedark&no-frame=false&no-bg=true&margin-w=4&rank=-C,-?)
+![](https://github-readme-stats-michaelselbertingers-projects.vercel.app/api?username=michaelSelbertinger&show_icons=true&theme=dark&show=reviews,prs_merged&hide=stars,prs)<br/>
+![](https://github-profile-trophy-indol-gamma.vercel.app/?username=michaelSelbertinger&theme=darkhub&no-frame=false&margin-w=4&rank=-C,-?)
